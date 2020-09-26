@@ -1,0 +1,10 @@
+sobre o projeto:
+- baseado em: https://youtu.be/bpBRFNKg8k4
+- sequencia:
+--- parte 1: iniciando a aplicação;
+- pode ser criado pelo eclipse ou pelo spring.io
+--- parte 2: Configurando banco de dados Postgres e criando Model / repository
+- banco de dados deve ser criado 1o no mysql
+--- parte 3: lista produtos, obtem 1 produto, salva produto
+- atraves do uso da ferramenta postman é possível realizar a chamada atraves do browser diretamente;
+--- parte 4: delete produtos
